@@ -12,7 +12,7 @@ decreaseBtn.onclick=function(){
     count--;
     countLabel.textContent=count;
 }
-restBtn.onclick=function(){
+resetBtn.onclick=function(){
     count=0;
     countLabel.textContent=count;
 }
